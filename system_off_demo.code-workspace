@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "system_off_demo",
+			"path": "."
+		}
+	],
+	"settings": {
+		"nrf-connect.applications": [
+			"${workspaceFolder}",
+			"c:\\projects\\i3\\system_off_demo"
+		],
+		"nrf-connect.toolchain.path": "${nrf-connect.toolchain:2.0.2}",
+		"nrf-connect.topdir": "${nrf-connect.sdk:2.0.2}"
+	}
+}
